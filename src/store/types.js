@@ -1,0 +1,4 @@
+export const GET_CHANNELS = 'GET_CHANNELS'
+export const SELECT_CHANNEL = 'SELECT_CHANNEL'
+export const SELECT_DATE = 'SELECT_DATE'
+export const GET_PROGRAMS = 'GET_PROGRAMS'
